@@ -1,5 +1,5 @@
 # NLP Assignment 1 - N-Gram Language Model and Perplexity Analysis
-
+Jupyter Notebook Link : https://colab.research.google.com/drive/1XwCrAL4c4sp5hpOjHF_veWbaMfo6n8Mr#scrollTo=5hrwjU-eBxWD
 ## Overview
 
 This project is focused on building n-gram language models (unigrams, bigrams, and trigrams) using a dataset of headlines. It involves tokenization of text data, generating n-grams, calculating frequency distributions, and evaluating language models using perplexity metrics. The analysis also includes the application of Laplace smoothing to improve perplexity scores.
